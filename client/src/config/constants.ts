@@ -1,8 +1,8 @@
 import swatch  from "../assets/swatch.png";
-import fileIcon from "../assets/fileIcon.png";
+import fileIcon from "../assets/file.png";
 import ai from "../assets/ai.png";
-import logoShirt from "../assets/logoShirt.png";
-import stylishShirt from "../assets/stylishShirt.png";
+import logoShirt from "../assets/logo-tshirt.png";
+import stylishShirt from "../assets/stylish-tshirt.png";
 
 
 export const EditorTabs = [
